@@ -2,12 +2,10 @@
   "version": "1.0.0-*",
 
   "buildOptions": {
-    "debugType": "portable",
-    "emitEntryPoint": true
+    "debugType": "portable"
   },
 
   "dependencies": {
-    "lights": "1.0.0-*",
     "Microsoft.NETCore.App": {
       "type": "platform",
       "version": "1.0.1"
